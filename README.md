@@ -1,5 +1,5 @@
 # Readikai Race Game with AI Model
-
+ 
 ## About
 Readikai Race Game is an innovative car racing game that leverages AI technology and gesture recognition to control your car. Players can maneuver their vehicles using hand gestures, creating an interactive and engaging gaming experience. 
 
